@@ -1,6 +1,4 @@
-# online_learning_huweii
 
-A new Flutter project.
 
 ## Getting Started
 
